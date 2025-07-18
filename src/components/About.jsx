@@ -17,7 +17,7 @@ CGPA: 9 | Grade: A+
 <br />
 <br />
           <h1 className='text-green-600 font-semibold text-2xl mt-6'>Skills & Expertise</h1>
-    <span >HTML, CSS, JavaScript,TailwindCSS
+    <span >HTML, CSS, JavaScript,TailwindCSS,
 
 React.js, Node.js, Express.js <br />
 MongoDB, MySQL <br />
