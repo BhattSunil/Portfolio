@@ -52,7 +52,7 @@ const cardItem=[
           {
             cardItem.map(({id,logo,name})=>(
             <div
-  className='md:w-[250px] md:h-[250px] rounded-lg border border-gray-300 shadow-md p-1 cursor-pointer hover:scale-110 duration-300 w-[200px] items-center ml-20'
+  className='md:w-[250px] md:h-[250px] rounded-lg border border-gray-300 shadow-md p-1 cursor-pointer hover:scale-110 duration-300 w-[200px] md:items-center ml-17  '
   key={id}
 >
 
